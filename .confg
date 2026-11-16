@@ -12,5 +12,3 @@ ENABLE_MUSIC_REQUESTS = FALSE
 
 GAME_SERVER_CONNECTIONS = FALSE
 #'server-name','server-port'
-Valheim, 2456
-tModLoader, 7777
