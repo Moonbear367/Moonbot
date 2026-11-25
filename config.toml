@@ -5,25 +5,25 @@
 #  For messages, you can use vereables in 'main'
 
 [GameServerFunctions]
-enabled = "false"
-alert_channel = 
+enabled = false
+alert_channel = ""
 #  print IP address = {new_ip}
 alert_message = "The game server IP's have all changed, the new IP is: {new_ip}"
 
 [OnJoin]
-enabled = "false"
+enabled = false
 #  username = '{member' , '.name' to ping, '.send' to DM
 join_message = "Hey {member.name}, welcome to our glistening hellscape called the 'Relm Of Stardust' =)"
-join_role = 
-message_channel =
+join_role = ""
+message_channel = "" 
 
 
 [SelfAssignedAlertRoles]
-enabled = "false"
+enabled = false
 roles = [
 
 ]
 
 [DiscordAdminAlerts]
-enable = "false"
-alert_channel = 
+enabled = false
+alert_channel = ""
