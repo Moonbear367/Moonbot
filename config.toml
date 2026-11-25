@@ -1,0 +1,29 @@
+#  Moonbot user Setting
+
+#  For message channels, use the channel ID
+#  For roles, use the role ID
+#  For messages, you can use vereables in 'main'
+
+[GameServerFunctions]
+enabled = "true"
+alert_channel = 1064673991710744596    # channel Name = server-info
+#  print IP address = {new_ip}
+alert_message = "The game server IP's have all changed, the new IP is: {new_ip}"
+
+[OnJoin]
+enabled = "true"
+#  username = '{member' , '.name' to ping, '.send' to DM
+join_message = "Hey {member.name}, welcome to our glistening hellscape called the 'Relm Of Stardust' =)"
+join_role = 881510287730163763    # role = Lil Starlits
+message_channel = 311776322869395456    #channel Name = general
+
+
+[SelfAssignedAlertRoles]
+enabled = "true"
+roles = [
+    1572905538243534989
+]
+
+[DiscordAdminAlerts]
+enable = "true"
+alert_channel = 1573552391054430248

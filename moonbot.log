@@ -1,1 +1,168 @@
-
+2026-11-21 15:23:29,619 - WARNING - discord.client - PyNaCl is not installed, voice will NOT be supported
+2026-11-21 15:23:29,619 - WARNING - discord.client - davey is not installed, voice will NOT be supported
+2026-11-21 15:23:29,622 - INFO - discord.client - logging in using static token
+2026-11-21 15:23:31,663 - INFO - discord.gateway - Shard ID None has connected to Gateway (Session ID: 468b45db9ce2b7291faedefbe0f905e6).
+2026-11-21 15:23:34,040 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 15:23:38,966 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 15:23:43,965 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 15:23:48,958 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 15:23:53,958 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 15:23:58,972 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 15:24:03,977 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 15:24:08,955 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 15:24:13,571 - WARNING - discord.client - PyNaCl is not installed, voice will NOT be supported
+2026-11-21 15:24:13,571 - WARNING - discord.client - davey is not installed, voice will NOT be supported
+2026-11-21 15:24:13,573 - INFO - discord.client - logging in using static token
+2026-11-21 15:24:15,090 - INFO - discord.gateway - Shard ID None has connected to Gateway (Session ID: 1ae7672992f0da8aa162043d94e8f26b).
+2026-11-21 15:24:17,473 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 15:25:17,385 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 15:26:17,443 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 15:27:17,400 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 15:28:17,390 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 15:29:57,001 - WARNING - discord.client - PyNaCl is not installed, voice will NOT be supported
+2026-11-21 15:29:57,001 - WARNING - discord.client - davey is not installed, voice will NOT be supported
+2026-11-21 15:29:57,003 - INFO - discord.client - logging in using static token
+2026-11-21 15:29:59,356 - INFO - discord.gateway - Shard ID None has connected to Gateway (Session ID: f95080d6d87696e05a62420bc48d25b8).
+2026-11-21 15:30:01,746 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 15:34:38,786 - WARNING - discord.client - PyNaCl is not installed, voice will NOT be supported
+2026-11-21 15:34:38,786 - WARNING - discord.client - davey is not installed, voice will NOT be supported
+2026-11-21 15:34:38,788 - INFO - discord.client - logging in using static token
+2026-11-21 15:34:40,527 - INFO - discord.gateway - Shard ID None has connected to Gateway (Session ID: d1ffbf3576cc06d753d783841206d729).
+2026-11-21 15:34:42,904 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 15:36:13,973 - WARNING - discord.client - PyNaCl is not installed, voice will NOT be supported
+2026-11-21 15:36:13,974 - WARNING - discord.client - davey is not installed, voice will NOT be supported
+2026-11-21 15:36:13,976 - INFO - discord.client - logging in using static token
+2026-11-21 15:36:16,706 - INFO - discord.gateway - Shard ID None has connected to Gateway (Session ID: 6eeeef303092746c71257e7e015e6e4a).
+2026-11-21 15:36:19,076 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 15:37:18,185 - WARNING - discord.client - PyNaCl is not installed, voice will NOT be supported
+2026-11-21 15:37:18,185 - WARNING - discord.client - davey is not installed, voice will NOT be supported
+2026-11-21 15:37:18,187 - INFO - discord.client - logging in using static token
+2026-11-21 15:37:19,729 - INFO - discord.gateway - Shard ID None has connected to Gateway (Session ID: 74dc46e6042974e7ab4671b4b08ecd90).
+2026-11-21 15:37:22,317 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 15:38:22,050 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 15:39:22,047 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 15:44:38,073 - WARNING - discord.client - PyNaCl is not installed, voice will NOT be supported
+2026-11-21 15:44:38,074 - WARNING - discord.client - davey is not installed, voice will NOT be supported
+2026-11-21 15:44:38,076 - INFO - discord.client - logging in using static token
+2026-11-21 15:53:32,277 - WARNING - discord.client - PyNaCl is not installed, voice will NOT be supported
+2026-11-21 15:53:32,277 - WARNING - discord.client - davey is not installed, voice will NOT be supported
+2026-11-21 15:53:32,279 - INFO - discord.client - logging in using static token
+2026-11-21 15:53:33,833 - INFO - discord.gateway - Shard ID None has connected to Gateway (Session ID: f59ac97008e9ccd77a609306f830371f).
+2026-11-21 15:53:36,210 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 16:16:07,472 - WARNING - discord.client - PyNaCl is not installed, voice will NOT be supported
+2026-11-21 16:16:07,472 - WARNING - discord.client - davey is not installed, voice will NOT be supported
+2026-11-21 16:16:07,475 - INFO - discord.client - logging in using static token
+2026-11-21 16:16:09,092 - INFO - discord.gateway - Shard ID None has connected to Gateway (Session ID: 146b0a6ec2d0faee7b411254322916b9).
+2026-11-21 16:16:11,479 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 16:34:33,803 - WARNING - discord.client - PyNaCl is not installed, voice will NOT be supported
+2026-11-21 16:34:33,803 - WARNING - discord.client - davey is not installed, voice will NOT be supported
+2026-11-21 16:34:33,805 - INFO - discord.client - logging in using static token
+2026-11-21 16:34:35,801 - INFO - discord.gateway - Shard ID None has connected to Gateway (Session ID: 2384024e7ffcfd6cfe653b8e23f4cea2).
+2026-11-21 16:34:38,357 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 16:34:55,684 - WARNING - discord.client - PyNaCl is not installed, voice will NOT be supported
+2026-11-21 16:34:55,684 - WARNING - discord.client - davey is not installed, voice will NOT be supported
+2026-11-21 16:34:55,687 - INFO - discord.client - logging in using static token
+2026-11-21 16:34:57,421 - INFO - discord.gateway - Shard ID None has connected to Gateway (Session ID: 7e3934eac7e1da0e854f631e57516e75).
+2026-11-21 16:34:59,813 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 16:36:00,601 - WARNING - discord.client - PyNaCl is not installed, voice will NOT be supported
+2026-11-21 16:36:00,601 - WARNING - discord.client - davey is not installed, voice will NOT be supported
+2026-11-21 16:36:00,603 - INFO - discord.client - logging in using static token
+2026-11-21 16:36:02,491 - INFO - discord.gateway - Shard ID None has connected to Gateway (Session ID: 15af8a629a396ad3e91e95377a48eee7).
+2026-11-21 16:36:04,858 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 16:36:23,637 - WARNING - discord.client - PyNaCl is not installed, voice will NOT be supported
+2026-11-21 16:36:23,637 - WARNING - discord.client - davey is not installed, voice will NOT be supported
+2026-11-21 16:36:23,639 - INFO - discord.client - logging in using static token
+2026-11-21 16:36:25,085 - INFO - discord.gateway - Shard ID None has connected to Gateway (Session ID: 3ef56faf1adb25f257e1ce15f6aac0bd).
+2026-11-21 16:36:27,444 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 16:37:51,881 - WARNING - discord.client - PyNaCl is not installed, voice will NOT be supported
+2026-11-21 16:37:51,882 - WARNING - discord.client - davey is not installed, voice will NOT be supported
+2026-11-21 16:37:51,884 - INFO - discord.client - logging in using static token
+2026-11-21 16:37:56,850 - INFO - discord.gateway - Shard ID None has connected to Gateway (Session ID: 81323c5cec39dd57c67f0c0d3fbb9aea).
+2026-11-21 16:37:59,204 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 17:10:08,104 - WARNING - discord.client - PyNaCl is not installed, voice will NOT be supported
+2026-11-21 17:10:08,104 - WARNING - discord.client - davey is not installed, voice will NOT be supported
+2026-11-21 17:10:08,106 - INFO - discord.client - logging in using static token
+2026-11-21 17:10:09,918 - INFO - discord.gateway - Shard ID None has connected to Gateway (Session ID: 2918855963ae0f92430b73dc4de96948).
+2026-11-21 17:10:12,268 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 17:11:12,213 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 17:12:12,215 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 17:13:12,623 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 17:14:12,216 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 17:15:12,642 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 17:16:12,213 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 17:17:12,214 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 17:18:12,207 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 17:19:12,220 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 17:20:12,220 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 17:21:12,209 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 17:22:12,208 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 17:23:12,218 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 17:24:12,219 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 17:25:12,203 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 17:26:12,213 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 17:27:12,237 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 17:28:12,222 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 17:29:12,218 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 17:30:12,228 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 17:31:12,224 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 17:32:12,225 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 17:33:12,210 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 17:34:12,207 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 17:35:12,639 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 17:36:12,220 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 17:37:12,213 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 17:38:12,202 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 17:39:12,205 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 17:40:12,218 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 17:41:12,212 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 17:42:12,220 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 17:43:12,230 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 17:44:12,220 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 17:45:12,209 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 17:46:12,224 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 17:47:12,222 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 17:48:12,218 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 17:49:12,656 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 17:50:12,225 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 17:51:12,222 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 17:52:12,222 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 17:53:12,231 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 17:54:12,655 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 17:55:12,219 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 17:56:12,218 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 17:57:12,213 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 17:58:12,227 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 17:59:10,952 - WARNING - discord.client - PyNaCl is not installed, voice will NOT be supported
+2026-11-21 17:59:10,952 - WARNING - discord.client - davey is not installed, voice will NOT be supported
+2026-11-21 17:59:10,954 - INFO - discord.client - logging in using static token
+2026-11-21 17:59:12,217 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 17:59:12,470 - INFO - discord.gateway - Shard ID None has connected to Gateway (Session ID: 445403e67958dc53d994db6844a21fed).
+2026-11-21 17:59:20,713 - WARNING - discord.client - PyNaCl is not installed, voice will NOT be supported
+2026-11-21 17:59:20,713 - WARNING - discord.client - davey is not installed, voice will NOT be supported
+2026-11-21 17:59:20,715 - INFO - discord.client - logging in using static token
+2026-11-21 17:59:22,463 - INFO - discord.gateway - Shard ID None has connected to Gateway (Session ID: a8538911057536fc7fed2291c2e0f4b4).
+2026-11-21 17:59:24,824 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 18:00:24,774 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 18:01:24,775 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 18:02:24,767 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 18:03:24,766 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 18:04:24,764 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 18:05:24,775 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 18:06:24,771 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 18:07:25,205 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 18:08:24,761 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 18:09:24,759 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 18:10:24,776 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 18:11:24,772 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 18:12:24,774 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 18:13:24,777 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 18:14:24,758 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 18:15:24,776 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 18:16:24,775 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 18:17:24,767 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 18:18:24,757 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"
+2026-11-21 18:18:30,492 - WARNING - discord.client - PyNaCl is not installed, voice will NOT be supported
+2026-11-21 18:18:30,492 - WARNING - discord.client - davey is not installed, voice will NOT be supported
+2026-11-21 18:18:30,494 - INFO - discord.client - logging in using static token
+2026-11-21 18:18:32,137 - INFO - discord.gateway - Shard ID None has connected to Gateway (Session ID: f9014ee25db0202974f07f7c67cd6b7e).
+2026-11-21 18:18:34,510 - INFO - httpx - HTTP Request: GET https://api.ipify.org "HTTP/1.1 200 OK"

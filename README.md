@@ -1,2 +1,0 @@
-# Moonbot
-a discord bot 
