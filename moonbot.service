@@ -1,0 +1,13 @@
+[Unit]
+Description=moonbot
+After=network.target
+
+[Service]
+User=admin
+WorkingDirectory=/home/admin/scripts/python/moonbot
+ExecStart=/home/admin/.local/bin/uv run moonbot
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
