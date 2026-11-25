@@ -1,4 +1,4 @@
-MoonBot
+MoonBot, 
 Made by Moonbear367
  
 A self-hosted server alert bot that primerly uses discord DM's for delivary.
