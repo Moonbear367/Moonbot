@@ -8,6 +8,7 @@ It uses 'uv' for enviroment and package managemnt
 linux workflow:
 - Download and place the files inside a new user-account for enviroment separation
 - Onces downloaded move to bots home directory and type: "uv sync"
+- Place your discord application token into ".env"
 - Before running the bot go through the config & pyproject .tomls to customise bot
 - After editing use: "uv run moonbot" to start 
 
