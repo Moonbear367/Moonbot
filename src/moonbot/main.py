@@ -1,3 +1,5 @@
+#!user/bin/env python3.14
+
 import discord,logging,os,httpx,asyncio,tomllib
 from discord.ext import commands, tasks
 from dotenv import load_dotenv
