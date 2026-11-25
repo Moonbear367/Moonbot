@@ -1,5 +1,5 @@
 MoonBot
-#Made by Moonbear367
+Made by Moonbear367
  
 A self-hosted server alert bot that primerly uses discord DM's for delivary.
 Combatable with both linux and windows due to being written in python 3.14 
